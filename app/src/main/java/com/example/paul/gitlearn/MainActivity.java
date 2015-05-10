@@ -11,7 +11,8 @@ public class MainActivity extends ActionBarActivity {
 
     //This is a test project for me to learn about git.
 
-    private int test1 = 99;
+
+    private int test1 = 100;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
