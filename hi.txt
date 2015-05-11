@@ -11,3 +11,4 @@ This is for testing remote rebase
 This is another version for rebase.
 这个是我造出来的另一个冲突哈哈哈
 这个是冲突2号
+1号也手贱改动习哈哈哈
