@@ -9,3 +9,5 @@ click: just kidding
 hehe: heheheheheh
 This is for testing remote rebase
 This is another version for rebase.
+
+这个是冲突2号
