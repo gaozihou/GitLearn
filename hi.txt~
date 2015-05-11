@@ -5,13 +5,7 @@ pull: take the content in repository
 add: add changes to index
 commit: note index into status
 pull: take the content in repository
-<<<<<<< HEAD
 click: just kidding
 hehe: heheheheheh
-
 This is for testing remote rebase
-
-=======
-
 This is another version for rebase.
->>>>>>> From g1
