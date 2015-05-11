@@ -8,3 +8,5 @@ pull: take the content in repository
 click: just kidding
 hehe: heheheheheh
 
+This is for testing remote rebase
+

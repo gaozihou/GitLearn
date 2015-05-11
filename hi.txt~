@@ -3,3 +3,10 @@ add: add changes to index
 commit: note index into status
 pull: take the content in repository
 add: add changes to index
+commit: note index into status
+pull: take the content in repository
+click: just kidding
+hehe: heheheheheh
+
+This is for testing remote rebase
+
