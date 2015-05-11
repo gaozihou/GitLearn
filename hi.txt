@@ -1,2 +1,3 @@
 hihi
 add: add changes to index
+pull: take the content in repository
